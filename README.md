@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subi1
-- 👀 I’m interested in learnning Data and AI 
+- 👀 I’m interested in learning Data and AI 
 - 🌱 I’m currently learning Databricks workspace and Data Testing 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python testing and Agentic AI
 - 📫 How to reach me ...
 
 <!---
